@@ -1,0 +1,31 @@
+body {
+    background: #140f2d;
+    color: white;
+    font-family: sans-serif;
+    font-color: white;
+}
+
+a {
+    color: #f0a40f;
+}
+
+a:hover {
+    color: #f0ca80;
+}
+
+#header {
+    background: url("assets/codingat_logo_300.png");
+    background-repeat:no-repeat;
+    background-position: 50%;
+    height: 300px;  /* not responsive! */
+    padding: 3px;
+    margin: 5px;
+    border-color: #f0a40f;
+    border-width: thin;
+    border-style: solid;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
